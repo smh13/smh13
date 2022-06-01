@@ -1,3 +1,5 @@
+![GITHUB Banner](https://user-images.githubusercontent.com/96167109/171400232-5b413d4a-461b-4f2e-8f96-5742acd0c9b0.png)
+
 <h1 align="center">Hi 👋, I'm Syed Mustafa Hashmi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
